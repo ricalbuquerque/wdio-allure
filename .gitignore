@@ -1,0 +1,6 @@
+.lambdatest
+wiremock
+reports
+node_modules
+.DS_Store
+.idea
